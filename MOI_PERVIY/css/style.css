@@ -1,0 +1,42 @@
+.title {
+padding: 30px;
+text-align: center;
+font-size: 50px;
+}
+
+.title span{
+    font-size: 35px;
+    color: #6C63FF;
+}
+
+
+.main{
+    display: flex;
+    /* border: 2px solid #6C63FF; */
+    justify-content: center;
+    align-items: center;
+}
+
+/* .mainInfo{
+    border: 2px solid cyan;
+} */
+
+.main img{
+    max-width: 700px;
+}
+
+.mainInfo{
+    max-width: 500px;
+}
+
+.mainInfo ul{
+    padding-left: 17px;
+}
+
+.mainInfo a{
+color: #6C63FF;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
